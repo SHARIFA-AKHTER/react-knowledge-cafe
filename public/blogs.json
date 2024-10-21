@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "title": "Exploring the Stars: A Journey Through Space",
+      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "post_date": "2024-10-21",
+      "reading_time": "5 min read",
+      "hashtags": ["#space", "#astronomy", "#exploration"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "title": "The Art of Minimalism: Living With Less",
+      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "post_date": "2024-10-19",
+      "reading_time": "7 min read",
+      "hashtags": ["#minimalism", "#lifestyle", "#simplicity"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "title": "The Future of AI: Transforming Our World",
+      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "post_date": "2024-10-15",
+      "reading_time": "10 min read",
+      "hashtags": ["#AI", "#technology", "#innovation"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "title": "Sustainable Fashion: The New Era of Eco-Friendly Clothing",
+      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "post_date": "2024-10-12",
+      "reading_time": "8 min read",
+      "hashtags": ["#fashion", "#sustainability", "#eco-friendly"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "title": "Mindfulness and Meditation: A Guide to Inner Peace",
+      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "post_date": "2024-10-10",
+      "reading_time": "6 min read",
+      "hashtags": ["#mindfulness", "#meditation", "#wellbeing"]
+    }
+  ]
