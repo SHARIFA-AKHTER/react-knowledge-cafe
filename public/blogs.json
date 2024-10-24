@@ -1,47 +1,43 @@
 [
     {
       "id": 1,
-      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
-      "title": "Exploring the Stars: A Journey Through Space",
-      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "cover": "https://i.ibb.co.com/9gT5HwK/1.jpg",
+      "title": "Free images and resources collection for website",
+      "author_name": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/fXWDHb1/boy1.png",
       "post_date": "2024-10-21",
-      "reading_time": "5 min read",
-      "hashtags": ["#space", "#astronomy", "#exploration"]
+      "reading_time": 5 ,
+      "hashtags": ["development","resources"]
     },
     {
       "id": 2,
-      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "cover": "https://i.ibb.co.com/F5bPmM3/2.png",
       "title": "The Art of Minimalism: Living With Less",
-      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "author_name": "John Smith",
+      "author_img": "https://i.ibb.co.com/k24ZSyt/boy2.jpg",
       "post_date": "2024-10-19",
-      "reading_time": "7 min read",
+      "reading_time": 7 ,
       "hashtags": ["#minimalism", "#lifestyle", "#simplicity"]
     },
     {
       "id": 3,
-      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "cover": "https://i.ibb.co.com/0GqncmK/3.png",
       "title": "The Future of AI: Transforming Our World",
-      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "author_name": "Emily Brown",
+      "author_img": "https://i.ibb.co.com/cy5cb6S/girl1.jpg",
       "post_date": "2024-10-15",
-      "reading_time": "10 min read",
+      "reading_time": 10 ,
       "hashtags": ["#AI", "#technology", "#innovation"]
     },
     {
       "id": 4,
-      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "cover": "https://i.ibb.co.com/PtW5TFg/4.jpg",
       "title": "Sustainable Fashion: The New Era of Eco-Friendly Clothing",
-      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
+      "author_name": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/FBcbKbL/girl2.jpg",
       "post_date": "2024-10-12",
-      "reading_time": "8 min read",
+      "reading_time": 8 ,
       "hashtags": ["#fashion", "#sustainability", "#eco-friendly"]
-    },
-    {
-      "id": 5,
-      "cover": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
-      "title": "Mindfulness and Meditation: A Guide to Inner Peace",
-      "author_img": "https://i.ibb.co.com/zxRv0mh/9220390.jpg",
-      "post_date": "2024-10-10",
-      "reading_time": "6 min read",
-      "hashtags": ["#mindfulness", "#meditation", "#wellbeing"]
     }
+    
   ]
